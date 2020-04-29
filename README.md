@@ -1,2 +1,2 @@
-# Crop-Yield-Prediction
+# Yield-Prediction
 Regression Problem
